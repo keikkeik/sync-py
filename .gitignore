@@ -93,4 +93,4 @@ ENV/
 .ropeproject
 
 setup.py
-
+.DS_Store
